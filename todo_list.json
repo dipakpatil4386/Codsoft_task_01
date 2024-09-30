@@ -1,0 +1,18 @@
+[
+    {
+        "task": "study",
+        "completed": true
+    },
+    {
+        "task": "study session 1",
+        "completed": false
+    },
+    {
+        "task": "dinner",
+        "completed": false
+    },
+    {
+        "task": "sleep",
+        "completed": false
+    }
+]
